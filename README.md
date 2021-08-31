@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <h1 align="center">Hi 👋, I'm Vishal Agarwal</h1> -->
+<!-- <h1 style="text-align:center">Hi 👋, I'm Vishal Agarwal</h1> -->
 <h3 align="left">I am Vishal Agarwal from Kolkata, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications. I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms. When I am not coding, I love listening music, watching movies and playing games.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal656&label=Profile%20views&color=0e75b6&style=flat" alt="vishal656" /> </p>
