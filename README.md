@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋
+ -->
 <!--
 **vishal656/vishal656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <h1 style="text-align:center">Hi 👋, I'm Vishal Agarwal</h1> -->
-<h3 align="left">I am Vishal Agarwal from Kolkata, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications. I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms. When I am not coding, I love listening music, watching movies and playing games.</h3>
+<h2 style="text-align:center">Hi 👋, I'm Vishal Agarwal</h2>
+<h3 align="left">I am Vishal Agarwal from Banglore, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications. I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in java, data structure and algorithms and other programming language. When I am not coding, I love listening music, watching movies and playing games.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal656&label=Profile%20views&color=0e75b6&style=flat" alt="vishal656" /> </p>
 
@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-agarwal-059aba113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-agarwal-059aba113/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005496366165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005496366165" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_luffy_world/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_luffy_world/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-agarwal-059aba113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-agarwal-059aba113/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005496366165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005496366165" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_luffy_world/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_luffy_world/" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal656&show_icons=true&locale=en&layout=compact" alt="vishal656" /></p>
