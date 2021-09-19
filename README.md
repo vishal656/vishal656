@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Head Lines:</h3>
 <ul>
- <li> You can also check out my portfolio at <a href="vishalportfolios.netlify.app">vishalportfolios.netlify.app</a>
+ <li> You can also check out my portfolio at <a href="https://vishalportfolios.netlify.app/">https://vishalportfolios.netlify.app/</a>
   <li>🏳️‍🌈 Currently Learning Full Stack Development.
   <li>😄 MCA From New Horizon from Bangalore, Karnataka.
   <li>💻 Worked in Navadhiti solution, Banglore.
