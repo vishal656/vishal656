@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <li> You can also check out my portfolio at <a href="https://vishalportfolios.netlify.app/">https://vishalportfolios.netlify.app/</a>
   <li>🏳️‍🌈 Currently Learning Full Stack Development.
   <li>😄 MCA From New Horizon from Bangalore, Karnataka.
-  <li>💻 Worked in Navadhiti solution, Banglore.
+  <li>💻 Worked in Niveus solution, Manglore.
  <li>📫 How to reach me <a href="vishal.agarwal656@gmail.com">vishal.agarwal656@gmail.com</a>
   <li>⚡ Fun fact I think I am funny XD
   <li>💬 Let's chat!
